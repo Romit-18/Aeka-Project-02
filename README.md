@@ -1,6 +1,6 @@
-# Aeka-Project-02
+# Aeka-Project-02- Machine Learning Projcet
 #username: Romit Pal
-Song Lyrics Similarity Search
+"Song Lyrics Similarity Search"
 This project uses a pre-trained DistilBERT model to compute embeddings for song lyrics and find the most similar songs based on a user-provided snippet. It leverages cosine similarity to compare embeddings and returns matching songs from a dataset.
 
 Prerequisites
